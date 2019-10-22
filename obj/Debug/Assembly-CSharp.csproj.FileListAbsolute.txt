@@ -1,0 +1,2 @@
+C:\Users\V.I.K.I\Documents\Unity\MazeGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\V.I.K.I\Documents\Unity\MazeGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
